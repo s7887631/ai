@@ -1,0 +1,6 @@
+{
+  "name": "Administrative Document Canvas Pro",
+  "description": "An interactive digital canvas to visually draft, structure, and auto-compile administrative documents paired with AI prompt synthesis and real-time meeting recorder.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
